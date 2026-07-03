@@ -12,10 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=chaithanya-0414&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chaithanya-0414&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
 [![](https://komarev.com/ghpvc/?username=chaithanya-0414&icon=3&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
