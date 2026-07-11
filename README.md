@@ -1,105 +1,155 @@
+<!-- ══════════════════════════════ HEADER ══════════════════════════════ -->
+<a href="https://chaithanya04.netlify.app">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:CD3004&height=200&section=header&text=P.%20Krishna%20Naga%20Chaithanya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20•%20LLM%20Systems%20•%20Production%20GenAI&descAlignY=56&descSize=18" alt="header"/>
+</a>
+
 <div align="center">
 
-# Hi, I'm Chaithanya 👋
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=FF6A00&center=true&vCenter=true&width=650&lines=I+turn+research-grade+AI+into+real+products;LLMs+%7C+AI+Agents+%7C+RAG+%7C+FastAPI+%7C+MLOps;Shipping+production-ready+GenAI+systems;Open+to+AI%2FML+Engineering+roles+%F0%9F%9A%80" alt="typing"/>
 
-### AI Engineer · Python Developer · Building Production AI Agents
+<p>
+<a href="https://www.linkedin.com/in/chaithanya04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://chaithanya04.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF6A00?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="mailto:ponnekantichaithanya0414@gmail.com"><img src="https://img.shields.io/badge/Email-CD3004?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Chaithanya-0414"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="chaithu.pdf"><img src="https://img.shields.io/badge/Résumé-2B2B2B?style=for-the-badge&logo=readdotcv&logoColor=FF6A00"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanya04)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponnekantichaithanya0414@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___mr.u_n_k_n_o_w_n___/)
+<img src="https://komarev.com/ghpvc/?username=Chaithanya-0414&label=Profile%20Views&color=FF6A00&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Chaithanya-0414?label=Followers&style=flat-square&color=FF6A00&logo=github"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 💫 About Me
+<!-- ══════════════════════════════ ABOUT ══════════════════════════════ -->
+## `>` whoami <img align="right" src="developer.gif" width="300">
 
-I'm an AI Engineer passionate about building intelligent software that solves real-world problems.
+I'm an **AI Engineer** who lives at the seam between **research and production** — where a clever model has to become a reliable, observable, shippable service. I build **LLM applications, multi-agent systems, and RAG pipelines**, and I wrap them in clean **FastAPI** backends that don't fall over in the real world.
 
-My work focuses on designing and shipping **production-ready AI systems** — combining Large Language Models, AI agents, and strong backend engineering into scalable applications. I enjoy taking complex ideas from concept to working product.
+```python
+class Chaithanya:
+    role        = "AI Engineer"
+    company     = "Sydon AI"
+    focus       = ["LLM apps", "AI agents", "RAG", "production GenAI"]
+    stack       = ["Python", "FastAPI", "React", "LangGraph"]
+    learning    = ["MLOps", "GenAI architecture", "eval-driven dev"]
+    mission     = "Ship AI that survives contact with production."
+    open_to     = "AI / ML Engineering roles"
+```
 
-🔭 **Currently:** Building agentic AI systems for commerce — multi-agent workflows, retrieval pipelines, and backend services that automate real business decisions with real-world data.
+- 🤖 &nbsp;Building **AI agents, LLM applications & production GenAI systems**
+- ⚡ &nbsp;Designing **backend services and APIs** with FastAPI
+- 🧠 &nbsp;Exploring **multi-agent orchestration** and **retrieval-augmented generation**
+- 🎯 &nbsp;Next stop: **Production GenAI Engineer**
+- 📫 &nbsp;Reach me → **ponnekantichaithanya0414@gmail.com**
 
-🌱 **Learning:** Multi-Agent Systems · Advanced LLM Architectures · AI Infrastructure · Distributed Systems · Production MLOps
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<!-- ══════════════════════════════ STACK ══════════════════════════════ -->
+## 🛠 &nbsp;Arsenal
 
-## 🚀 What I Work On
-
-| | |
-|---|---|
-| 🤖 **AI Agents & Agentic Workflows** | Multi-agent orchestration, tool use, autonomous pipelines |
-| 🧠 **LLM Applications** | Prompt engineering, structured outputs, evaluation |
-| 🔍 **Retrieval-Augmented Generation** | Vector search, retrieval pipelines, grounded answers |
-| ⚡ **Backend Engineering** | FastAPI, REST APIs, async Python services |
-| 📊 **ML & Analytics** | Predictive modeling, forecasting, data visualization |
-| ☁️ **Deployment** | Cloud-ready AI applications, from prototype to production |
-
----
-
-## 🛠 Tech Stack
+<div align="center">
 
 **Languages & Core**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github,vscode&perline=8" />
 
-**AI & Machine Learning**
+**AI / ML & Backend**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-
-**LLM & AI Engineering**
-
-`OpenAI APIs` · `AI Agents` · `Prompt Engineering` · `Vector Search` · `RAG`
-
-**Backend & Frontend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Data & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-`Matplotlib` · `Seaborn`
-
-**Deployment & Tools**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.shion.dev/api?username=chaithanya-0414&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)
-
-![Streak](https://streak-stats.demolab.com/?user=chaithanya-0414&theme=gruvbox_light&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=chaithanya-0414&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://skillicons.dev/icons?i=fastapi,react,sklearn,tensorflow,opencv,pytorch&perline=8" />
 
 </div>
 
----
+| Domain | Tools |
+|---|---|
+| **AI Engineering** | LLM Apps · AI Agents · RAG Pipelines · Prompt Engineering · LangGraph |
+| **Machine Learning** | Scikit-learn · Pandas · NumPy · OpenCV · Matplotlib · Seaborn |
+| **Backend & APIs** | FastAPI · REST · Streamlit · Model Serving |
+| **Data & Viz** | SQL · Power BI · Chart.js |
+| **Craft** | Analytical thinking · Problem solving · Stakeholder comms · Collaboration |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ══════════════════════════════ PROJECTS ══════════════════════════════ -->
+## 📊 &nbsp;Featured Work <img align="right" src="BlackG.gif" width="260">
+
+| 🚀 Project | 🧩 Stack | ✨ What it does |
+|---|---|---|
+| **AI Financial ERP Platform** | FastAPI · React · AI Agents · LLM | End-to-end finance platform driven by autonomous AI agents |
+| **Medical Imaging Tumor Detection** | Python · ML · Computer Vision · Streamlit | CV pipeline that flags tumors from medical scans |
+| **EcoBin-X — Smart Waste** | IoT · Sensors · Python | Sensor-driven waste monitoring & routing |
+| **University Analytics Dashboard** | JavaScript · Chart.js · AI Scoring | Interactive analytics with AI-based scoring |
+| **TN Political Analytics Dashboard** | Analytics · Data Viz | Data storytelling over political datasets |
+| **Multilingual AI Translator** | Python · NLP · Streamlit | Real-time multilingual translation app |
 
 <div align="center">
 
-💬 *Open to collaborating on AI agents, LLM applications, and backend systems — let's build something.*
+[**➥ &nbsp;Explore all repositories ⟶**](https://github.com/Chaithanya-0414?tab=repositories)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chaithanya-0414&icon=3&color=7)](https://visitcount.itsvg.in)
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ══════════════════════════════ EXPERIENCE ══════════════════════════════ -->
+## 💼 &nbsp;Experience <img align="right" src="laptop.gif" width="190">
+
+**🟠 &nbsp;Junior AI Engineer** — *Sydon AI*
+> Building AI-powered applications, AI agents, LLM workflows, FastAPI backends & production AI systems.
+
+**🟠 &nbsp;Machine Learning with Python** — *Embrizon Technologies*
+> Machine learning, Python, Scikit-learn, model development.
+
+**🟠 &nbsp;Samsung Innovation Campus**
+> Coding & programming fundamentals.
+
+**🟠 &nbsp;Industrial Training, Inspection Team** — *RANE*
+> Quality inspection & manufacturing process improvement.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ══════════════════════════════ EDUCATION ══════════════════════════════ -->
+## 🎓 &nbsp;Education <img align="right" src="Thinking.gif" width="223">
+
+**🟠 &nbsp;B.Tech — Computer Science & Engineering** · *Bharath University* — **CGPA 8.10 / 10**
+
+**🟠 &nbsp;Diploma — Engineering** · *KITS Institute of Technology & Science*
+
+**🟠 &nbsp;Secondary Education** · *Sri Chaitanya e-Techno School*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ══════════════════════════════ STATS ══════════════════════════════ -->
+## 📈 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chaithanya-0414&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6A00&icon_color=FF6A00&text_color=c9d1d9"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Chaithanya-0414&hide_border=true&background=0d1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=FF6A00"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaithanya-0414&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6A00&text_color=c9d1d9&langs_count=8"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chaithanya-0414&bg_color=0d1117&color=FF6A00&line=FF6A00&point=ffffff&area=true&hide_border=true"/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Chaithanya-0414&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+
+<!-- Snake animation — needs the GitHub Action below to render -->
+<img width="100%" src="https://raw.githubusercontent.com/Chaithanya-0414/Chaithanya-0414/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- ══════════════════════════════ FOOTER ══════════════════════════════ -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60"> &nbsp;**Let's connect, collaborate & build impactful AI together** &nbsp;<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60">
+
+> *"Ship AI that survives contact with production."*
+
+⭐ &nbsp;If my work resonates, drop a star — it genuinely helps.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CD3004,100:FF6A00&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=68&animation=fadeIn"/>
 
 </div>
