@@ -132,7 +132,7 @@ class Chaithanya:
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chaithanya-0414&bg_color=0d1117&color=FF6A00&line=FF6A00&point=ffffff&area=true&hide_border=true"/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Chaithanya-0414&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+<img width="100%" src="https://github-trophies.vercel.app/?username=Chaithanya-0414&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 
 <!-- Snake animation — needs the GitHub Action below to render -->
 <img width="100%" src="https://raw.githubusercontent.com/Chaithanya-0414/Chaithanya-0414/output/github-contribution-grid-snake-dark.svg"/>
