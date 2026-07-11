@@ -1,105 +1,200 @@
-<div align="center">
+# Hi there 👋 I'm P. Krishna Naga Chaithanya
 
-# Hi, I'm Chaithanya 👋
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=18&duration=3000&pause=900&color=FF8C42&width=700&lines=AI+Engineer+%7C+LLM+Engineer;Python+Developer+%7C+FastAPI+Developer;Building+AI+Agents+%7C+RAG+Applications;Machine+Learning+Engineer;Open+Source+Contributor" />`{=html}
 
-### AI Engineer · Python Developer · Building Production AI Agents
+```{=html}
+<p align="left">
+```
+`<a href="https://www.linkedin.com/in/chaithanya04">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://chaithanya04.netlify.app">`{=html}`<img src="https://img.shields.io/badge/Portfolio-000000?logo=google-chrome&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:ponnekantichaithanya0414@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/Chaithanya-0414">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaithanya04)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponnekantichaithanya0414@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___mr.u_n_k_n_o_w_n___/)
+------------------------------------------------------------------------
 
-</div>
+# 🚀 About Me
 
----
+I'm an aspiring **AI Engineer** passionate about building
+production-ready AI systems using **Large Language Models (LLMs), AI
+Agents, FastAPI, Retrieval-Augmented Generation (RAG), Machine Learning,
+and Backend Engineering**.
 
-## 💫 About Me
+Currently working as a **Junior AI Engineer**, where I contribute to
+AI-powered products, intelligent automation, production-ready AI
+applications, and modern backend systems.
 
-I'm an AI Engineer passionate about building intelligent software that solves real-world problems.
+------------------------------------------------------------------------
 
-My work focuses on designing and shipping **production-ready AI systems** — combining Large Language Models, AI agents, and strong backend engineering into scalable applications. I enjoy taking complex ideas from concept to working product.
+# 🙋‍♂️ Talking About Me
 
-🔭 **Currently:** Building agentic AI systems for commerce — multi-agent workflows, retrieval pipelines, and backend services that automate real business decisions with real-world data.
+-   🤖 Building AI Agents & LLM Applications
+-   🐍 Python Developer
+-   ⚡ Developing FastAPI APIs
+-   🧠 Exploring Multi-Agent Systems
+-   📚 Learning Production GenAI Architecture
+-   💬 Ask me about AI, Python, ML, FastAPI & Backend Development
+-   🚀 Passionate about solving real-world problems using AI
+-   🎯 Goal: Become a Production GenAI Engineer
 
-🌱 **Learning:** Multi-Agent Systems · Advanced LLM Architectures · AI Infrastructure · Distributed Systems · Production MLOps
+------------------------------------------------------------------------
 
----
+# 🛠 Tech Stack
 
-## 🚀 What I Work On
+## Languages
 
-| | |
-|---|---|
-| 🤖 **AI Agents & Agentic Workflows** | Multi-agent orchestration, tool use, autonomous pipelines |
-| 🧠 **LLM Applications** | Prompt engineering, structured outputs, evaluation |
-| 🔍 **Retrieval-Augmented Generation** | Vector search, retrieval pipelines, grounded answers |
-| ⚡ **Backend Engineering** | FastAPI, REST APIs, async Python services |
-| 📊 **ML & Analytics** | Predictive modeling, forecasting, data visualization |
-| ☁️ **Deployment** | Cloud-ready AI applications, from prototype to production |
+-   Python
+-   SQL
+-   JavaScript
+-   HTML5
+-   CSS3
 
----
+## AI & Machine Learning
 
-## 🛠 Tech Stack
+-   Machine Learning
+-   Scikit-learn
+-   Pandas
+-   NumPy
+-   OpenCV
+-   Matplotlib
+-   Seaborn
+-   Prompt Engineering
+-   Generative AI
+-   NLP
 
-**Languages & Core**
+## AI Engineering
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+-   LLM Applications
+-   AI Agents
+-   RAG
+-   FastAPI
+-   REST APIs
+-   Streamlit
 
-**AI & Machine Learning**
+## Tools
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+-   Git
+-   GitHub
+-   VS Code
+-   Power BI
+-   Chart.js
+-   Canva
 
-**LLM & AI Engineering**
+------------------------------------------------------------------------
 
-`OpenAI APIs` · `AI Agents` · `Prompt Engineering` · `Vector Search` · `RAG`
+# 💼 Experience
 
-**Backend & Frontend**
+## Junior AI Engineer
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+**Sydon AI**
 
-**Data & Visualization**
+-   Building AI-powered applications
+-   AI Agents
+-   LLM Workflows
+-   FastAPI Backend
+-   Production AI Systems
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-`Matplotlib` · `Seaborn`
+### Machine Learning with Python
 
-**Deployment & Tools**
+**Embrizon Technologies**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+-   Machine Learning
+-   Python
+-   Scikit-learn
+-   Model Development
 
----
+### Samsung Innovation Campus
 
-## 📊 GitHub Stats
+Coding & Programming
 
-<div align="center">
+### Industrial Training --- Inspection Team
 
-![Stats](https://github-readme-stats.shion.dev/api?username=chaithanya-0414&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)
+**RANE**
 
-![Streak](https://streak-stats.demolab.com/?user=chaithanya-0414&theme=gruvbox_light&hide_border=false)
+-   Quality inspection
+-   Manufacturing process improvement
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=chaithanya-0414&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+------------------------------------------------------------------------
 
-</div>
+# 🚀 Featured Projects
 
----
+## 🧠 AI Financial ERP Platform
 
-<div align="center">
+-   FastAPI
+-   React
+-   AI
+-   LLM Integration
 
-💬 *Open to collaborating on AI agents, LLM applications, and backend systems — let's build something.*
+## 🏥 Advanced Medical Imaging Tumor Detection
 
-[![Profile Views](https://komarev.com/ghpvc/?username=chaithanya-0414&icon=3&color=7)](https://visitcount.itsvg.in)
+-   Python
+-   Machine Learning
+-   Computer Vision
+-   Streamlit
 
-</div>
+## ♻️ EcoBin-X Smart Waste Management
+
+-   IoT
+-   Sensors
+-   Python
+
+## 🎓 University Analytics Dashboard
+
+-   JavaScript
+-   Chart.js
+-   AI Scoring
+
+## 🗳 Tamil Nadu Political Analytics Dashboard
+
+-   Analytics
+-   Data Visualization
+
+## 🌐 Multilingual AI Translator
+
+-   Python
+-   NLP
+-   Streamlit
+
+------------------------------------------------------------------------
+
+# 🎓 Education
+
+### B.Tech -- Computer Science Engineering
+
+**Bharath University** CGPA **8.10**
+
+### Diploma -- Engineering
+
+KITS Institute of Technology & Science
+
+### Secondary Education
+
+Sri Chaitanya e-Techno School
+
+------------------------------------------------------------------------
+
+# 📈 GitHub Stats
+
+``` text
+GitHub Stats
+Top Languages
+Contribution Graph
+GitHub Streak
+```
+
+------------------------------------------------------------------------
+
+# 🤝 Connect With Me
+
+-   🌐 Portfolio: https://chaithanya04.netlify.app
+-   💼 LinkedIn: https://linkedin.com/in/chaithanya04
+-   📧 Email: ponnekantichaithanya0414@gmail.com
+-   💻 GitHub: https://github.com/Chaithanya-0414
+
+------------------------------------------------------------------------
+
+> ⭐ If you like my work, consider starring my repositories.
+>
+> 🚀 Building intelligent software with AI, one project at a time.
